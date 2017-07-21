@@ -13,3 +13,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Mario Pyramid Swing Auto Generate/nbproject/private/
+/Mario Pyramid Text File Option/nbproject/private/
+/Mario Pyramid Text File Option/build/
